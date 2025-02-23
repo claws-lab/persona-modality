@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "multimodal-persona-pipeline"
+version = "0.1.0"
+description = "A pipeline for evaluating persona modality bias by multimodal LLMs"
+authors = ["Your Name <broomfieldjuliusr@gatech.edu>"]
+
+[tool.poetry.dependencies]
+python = "^3.9.12"
+aiofiles = "^24.1.0"
+tqdm = "^4.66.5"
+python-dotenv = "^1.0.1"
+nltk = "^3.9.1"
+litellm = "*"      
+llm_guard = "*"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
