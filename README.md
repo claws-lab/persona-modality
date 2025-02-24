@@ -4,7 +4,7 @@ This repository contains supplementary code and data for the paper: ["A Thousand
 
 ![Persona Figure](assets/persona-fig.png)
 
-This code contains an end-to-end pipeline to evaluate how the modality of persona representations affects the embodiment by multimodal large language models (LLMs). Our pipeline integrates three sequential steps:
+This code contains an end-to-end pipeline for evaluating how the modality of persona representations affects the embodiment by multimodal language models. Our pipeline integrates three sequential steps:
 
 1. **Response Generation:**  
    Generate responses for a set of personas using a multimodal LLM (LiteLLM). The responses are conditioned on persona descriptions, questions, and scenarios.
