@@ -2,6 +2,8 @@
 
 This repository contains supplementary code and data for the paper: ["A Thousand Words or An Image: Studying the Influence of Persona Modality in Multimodal LLMs"]() (under review).
 
+![Persona Figure](assets/persona-fig.png)
+
 This code contains an end-to-end pipeline to evaluate how the modality of persona representations affects the embodiment by multimodal large language models (LLMs). Our pipeline integrates three sequential steps:
 
 1. **Response Generation:**  
