@@ -23,7 +23,7 @@ This code contains an end-to-end pipeline for evaluating how the modality of per
    Generate responses for a set of personas using a multimodal LLM (LiteLLM). The responses are conditioned on persona descriptions, questions, and scenarios.
 
 2. **Refusal Detection:**  
-   Filter and mark responses using a [refusal detection system](https://llm-guard.com/output_scanners/no_refusal/). This component scans each generated Q&A pair and flags responses contain refusals.
+   Filter and mark responses using [LLM Guard](https://llm-guard.com/output_scanners/no_refusal/). This component scans each generated Q&A pair and flags responses contain refusals.
 
 3. **Rubric Evaluation:**  
    Evaluate the non-refusal responses using rubric templates based on work from [Samuel et al.](https://github.com/vsamuel2003/PersonaGym). Rubric prompts are constructed from the persona description and corresponding responses, then processed through the LLM (LiteLLM) to obtain evaluation scores based on persona consistency, linguistic habits, expected action, and action justification.
