@@ -4,8 +4,8 @@
         "persona": "A 25-year-old female nurse from Toronto",
         "description": "Meet a dedicated healthcare professional in her early 30s, working in a bustling hospital in Toronto, Canada. Wearing scrubs in a calming light blue color, she moves with purpose as she attends to her responsibilities in a patient room with a stunning view of the CN Tower. Equipped with a stethoscope draped around her neck and a clipboard in hand, she embodies professionalism and compassion in her work. Her focused expression reflects her commitment to providing high-quality care while navigating the fast-paced environment of modern medicine. Each day, she engages with patients and colleagues alike, playing a crucial role in the healthcare system and making a positive impact on the lives of those around her.",
         "images": [
-            "/personas/images/0.png",
-            "/personas/descriptive_images/0.png"
+            "src/datasets/images/0.png",
+            "src/datasets/descriptive_images/0.png"
         ]
     },
     {
@@ -13,8 +13,8 @@
         "persona": "A 41-year-old female electrician from Sydney",
         "description": "Meet a diligent electrical technician in her early 30s, residing in Sydney, Australia. As she works near the vibrant waterfront, she is surrounded by the iconic sights of the city. Dressed in a standard blue work shirt paired with a high-visibility orange vest, her attire reflects the safety protocols essential to her role. Equipped with protective gloves and safety glasses, she is focused on a complex panel filled with colorful wiring and connectors. \n\nHer responsibilities involve troubleshooting and maintaining electrical systems, requiring technical expertise and a keen attention to detail. With a strong sense of pride in her work, she contributes to the reliability of local infrastructure, ensuring seamless operations in the bustling urban environment she calls home. Her calm demeanor and concentration highlight her professionalism as she navigates the challenges of her job, supporting the dynamic energy of Sydney.",
         "images": [
-            "/personas/images/178.png",
-            "/personas/descriptive_images/178.png"
+            "src/datasets/images/178.png",
+            "src/datasets/descriptive_images/178.png"
         ]
     },
     {
@@ -22,8 +22,8 @@
         "persona": "A 36-year-old male electrician from Houston",
         "description": "Meet a dedicated construction worker in his early 30s, located in Houston, Texas. He stands confidently against a backdrop of the city skyline, dressed in a fitted t-shirt and durable overalls, indicative of his practical approach to work. His expression suggests focus and determination, ready for the tasks ahead. Equipped with a variety of tools clipped to his belt and a pair of gloves, he's prepared for hands-on labor that requires both precision and strength. The construction projects he tackles are integral to the city\u2019s growth, often involving residential renovations and repairs. Each day, he contributes to the vibrant community of Houston, reflecting his pride in enhancing the living spaces of families throughout the area. His commitment to safety and collaboration shines in his work ethic, as he plays a key role in shaping the urban landscape around him.",
         "images": [
-            "/personas/images/31.png",
-            "/personas/descriptive_images/31.png"
+            "src/datasets/images/31.png",
+            "src/datasets/descriptive_images/31.png"
         ]
     },
     {
@@ -31,8 +31,8 @@
         "persona": "A 29-year-old female police officer from New York",
         "description": "Meet a dedicated police officer in her early 30s, stationed in the bustling streets of a vibrant city. Her confident demeanor and watchful expression reflect her commitment to ensuring public safety. Dressed in a professional uniform complete with a badge and a utility belt, she embodies authority and readiness. Positioned alongside a marked police vehicle, her work environment is dynamic and fast-paced, characterized by the constant rhythm of urban life.\n\nOn duty, her role involves not only patrolling the area but also engaging with the community to foster trust and cooperation. She often interacts with residents and visitors, addressing their concerns and maintaining order. Her connection to the area runs deep, as she works tirelessly to uphold the law and safeguard the neighborhood, reaffirming her dedication to service and community welfare.",
         "images": [
-            "/personas/images/2.png",
-            "/personas/descriptive_images/2.png"
+            "src/datasets/images/2.png",
+            "src/datasets/descriptive_images/2.png"
         ]
     },
     {
@@ -40,8 +40,8 @@
         "persona": "A 28-year-old female police officer from London",
         "description": "Meet a dedicated police officer in her early 30s, stationed in a vibrant urban area. Every day, she patrols the streets, ensuring the safety and security of her community. Dressed in a distinctive police uniform featuring a high-visibility vest and a traditional cap, she embodies professionalism and authority. She carries essential tools for her job, including a radio and a duty belt equipped with necessary equipment, ready to respond to any situation.\n\nHer expression reflects a blend of confidence and readiness, as she navigates her responsibilities with vigilance. Working in a bustling city environment, she interacts with diverse members of the public, forging connections and building trust within her community. She takes pride in her role, knowing her dedication contributes to a safer, more welcoming neighborhood for all residents.",
         "images": [
-            "/personas/images/48.png",
-            "/personas/descriptive_images/48.png"
+            "src/datasets/images/48.png",
+            "src/datasets/descriptive_images/48.png"
         ]
     },
     {
@@ -49,8 +49,8 @@
         "persona": "A 35-year-old male chef from Paris",
         "description": "Meet a dedicated chef in his late 30s, working in a prestigious restaurant with a stunning view of the Eiffel Tower in Paris. Dressed in a classic white chef's coat and a tall chef's hat, he embodies professionalism and culinary expertise. His focused demeanor reflects his passion for food as he skillfully plates a gourmet dish, showcasing both technique and artistry. Surrounding him are an array of meticulously prepared dishes, emphasizing his commitment to quality and presentation.\n\nIn this high-end culinary environment, he collaborates closely with his team to create exquisite dining experiences. His connection to Paris is palpable, as he takes pride in crafting dishes that celebrate the city's rich culinary traditions. His work not only fuels his creative spirit but also contributes to the vibrant culinary landscape that defines Paris.",
         "images": [
-            "/personas/images/3.png",
-            "/personas/descriptive_images/3.png"
+            "src/datasets/images/3.png",
+            "src/datasets/descriptive_images/3.png"
         ]
     },  
     {
@@ -58,8 +58,8 @@
         "persona": "A 32-year-old female chef from Rome",
         "description": "Meet a dedicated chef in her early 30s, immersed in the heart of a bustling Italian kitchen with a stunning view of the Colosseum. Dressed in a crisp white chef's coat complete with a traditional chef's hat, she embodies professionalism and culinary passion. With a focused expression, she skillfully arranges freshly made pasta on wooden boards, showcasing her meticulous attention to detail. \n\nSurrounded by vibrant ingredients, including ripe tomatoes and fresh herbs, her workspace is alive with the aromas of Italian cuisine. Her role centers around crafting authentic dishes, drawing inspiration from the rich culinary heritage of her location. Deeply connected to the area, she takes pride in incorporating local flavors and techniques, contributing to the culinary landscape that attracts both locals and tourists alike. Her daily commitment to quality reflects her love for cooking and her dedication to providing an exceptional dining experience.",
         "images": [
-            "/personas/images/41.png",
-            "/personas/descriptive_images/41.png"
+            "src/datasets/images/41.png",
+            "src/datasets/descriptive_images/41.png"
         ]
     },
     {
@@ -67,8 +67,8 @@
         "persona": "A 50-year-old male farmer from Sao Paulo",
         "description": "Meet a dedicated farmer in his late 50s, based in a picturesque rural area. Each day, he engages deeply with the land, surrounded by lush fields that stretch towards the horizon. Clad in a checkered shirt and jeans, topped with a wide-brimmed hat, he demonstrates an enduring connection to his agricultural roots. In one hand, he holds a rake, a trusty tool reflecting his hands-on approach to farming.\n\nHis work environment is a vibrant landscape of green, with rows of healthy plants under the golden hues of sunset. This tranquil yet demanding rural setting requires him to be attuned to the cycles of nature, making it a fulfilling, albeit challenging, profession. His commitment to cultivating the land speaks to his connection to the area, where he contributes not only to local food production but also to the community\u2019s heritage and sustainability. With a calm demeanor, he embodies the spirit of hardworking farmers who nurture the earth for generations to come.",
         "images": [
-            "/personas/images/4.png",
-            "/personas/descriptive_images/4.png"
+            "src/datasets/images/4.png",
+            "src/datasets/descriptive_images/4.png"
         ]
     },
     {
@@ -76,8 +76,8 @@
         "persona": "A 40-year-old female farmer from Nairobi",
         "description": "Meet a dedicated farmer in their late 20s, working diligently in a lush green field on the outskirts of Nairobi, Kenya. Dressed in a plaid shirt and a practical green apron, they sport a wide-brimmed straw hat to shield themselves from the sun, along with bright yellow gloves that indicate their readiness for hands-on work. Holding a watering can, they are nurturing young plants, showing a commitment to sustainable agriculture. \n\nTheir job involves crop cultivation, with a focus on ensuring healthy growth and harvesting produce for the local market. The backdrop of Nairobi's skyline provides a striking contrast to the rural setting, emphasizing the farmer's connection between urban demand and rural production. Each day, they contribute to the food supply chain, embodying a deep passion for agriculture and pride in their role in the community.",
         "images": [
-            "/personas/images/34.png",
-            "/personas/descriptive_images/34.png"
+            "src/datasets/images/34.png",
+            "src/datasets/descriptive_images/34.png"
         ]
     },
     {
@@ -85,8 +85,8 @@
         "persona": "A 27-year-old female mechanic from Berlin",
         "description": "Meet a dedicated mechanic in her late 20s, working in a vibrant auto repair shop filled with character. The atmosphere is lively, decorated with graffiti and a range of tools scattered around, hinting at the creativity and chaos of daily work. Dressed in a blue jumpsuit and white sneakers, she embodies a practical yet stylish approach to her job. With a focused expression as she inspects a classic blue car, she demonstrates her commitment to craftsmanship and problem-solving. Her environment is filled with the sounds of engines and tools, reflecting the dynamic nature of her work. Passionate about automotive repair, she connects deeply with her community, helping local residents keep their vehicles in prime condition while reviving classic models that tell a story of their own.",
         "images": [
-            "/personas/images/5.png",
-            "/personas/descriptive_images/5.png"
+            "src/datasets/images/5.png",
+            "src/datasets/descriptive_images/5.png"
         ]
     },
     {
@@ -94,8 +94,8 @@
         "persona": "A 28-year-old female pilot from Los Angeles",
         "description": "Meet a dedicated aviation professional in her early 30s, stationed at a vibrant airfield near a coastal city. She exudes confidence and focus, dressed in a crisp, teal flight suit adorned with insignia that signifies her rank and accomplishments. With a pair of aviator sunglasses perched atop her head, she radiates a sense of readiness and adventure.\n\nHer work environment is dynamic, where the sound of aircraft engines and the sight of planes taking off and landing are the norm. As a pilot, her job involves operating a variety of aircraft, performing pre-flight checks, and ensuring safety regulations are meticulously followed. \n\nWith a watch on her wrist and a small keychain tool clipped to her attire, she effortlessly balances professionalism and practicality. She feels a deep connection to the area, as this location offers her ample opportunities to navigate the skies and engage in her passion for aviation, all while contributing to the local air transport network. Her demeanor reflects both her commitment to her job and the thrill of a life spent soaring through the air.",
         "images": [
-            "/personas/images/22.png",
-            "/personas/descriptive_images/22.png"
+            "src/datasets/images/22.png",
+            "src/datasets/descriptive_images/22.png"
         ]
     },
     {
@@ -103,8 +103,8 @@
         "persona": "A 28-year-old female pilot from Vancouver",
         "description": "Meet a dedicated pilot in her early 30s, stationed at an airfield surrounded by stunning mountainous landscapes. She operates within a busy cockpit environment, characterized by a panel filled with various instruments and controls crucial for flight navigation. Dressed in a formal uniform, complete with insignia that reflects her rank, she exudes professionalism and focus. Wearing a headset, she is poised for communication with her co-pilot and air traffic control, highlighting her vital connection to the aviation community. Holding a flight manual in her hands, she meticulously prepares for her upcoming flight, an essential part of her role that ensures safety and efficiency in operations. With each takeoff and landing, she contributes to the intricate tapestry of air travel, showcasing her skills and commitment to her craft in the aviation industry.",
         "images": [
-            "/personas/images/190.png",
-            "/personas/descriptive_images/190.png"
+            "src/datasets/images/190.png",
+            "src/datasets/descriptive_images/190.png"
         ]
     },
     {
@@ -112,8 +112,8 @@
         "persona": "A 60-year-old female carpenter from Rome",
         "description": "Meet a seasoned carpenter in their late 60s, working in a quaint workshop tucked away in a small town. With a focused expression, they skillfully maneuver a saw, revealing their dedication to precision craftsmanship. Clad in a plaid shirt and an apron, paired with protective gloves, they are well-equipped for a day filled with woodworking tasks. The workshop around them is warm and inviting, filled with tools and freshly cut timber, echoing years of creativity and hard work. This carpenter thrives in the serene setting, where woodworking is not just a profession, but a lifelong passion, contributing to the local community by creating unique, handcrafted furniture that reflects the area's charm and history.",
         "images": [
-            "/personas/images/9.png",
-            "/personas/descriptive_images/9.png"
+            "src/datasets/images/9.png",
+            "src/datasets/descriptive_images/9.png"
         ]
     },
     {
@@ -121,8 +121,8 @@
         "persona": "A 45-year-old male carpenter from Auckland",
         "description": "Meet a dedicated carpenter in his late 40s, working in a vibrant workshop in a bustling urban area. His facial expression shows deep concentration as he expertly measures wood planks. Dressed in a plaid shirt, protective goggles, and a mask, he prioritizes safety while tackling complex projects. His hands are gloved, showcasing his commitment to precision in craftsmanship. Surrounded by an array of tools and materials, he engages in woodworking tasks that require both creativity and technical skill. His connection to the community is strong, as he often collaborates with local builders and artists, contributing to the unique character and craftsmanship of the area. With every cut and join, he fosters a sense of pride in his work, enhancing the city's architectural landscape.",
         "images": [
-            "/personas/images/33.png",
-            "/personas/descriptive_images/33.png"
+            "src/datasets/images/33.png",
+            "src/datasets/descriptive_images/33.png"
         ]
     },
     {
@@ -130,8 +130,8 @@
         "persona": "A 44-year-old female cashier from Montreal",
         "description": "Meet a dedicated retail worker in her mid-20s, employed at a busy supermarket in a vibrant urban area. She wears a crisp, short-sleeved uniform that includes a black and white collared shirt, along with a name badge identifying her as a valued team member. Focused and attentive, her expression reflects determination as she operates a handheld scanner, efficiently managing inventory and product displays. Surrounded by colorful shelves packed with various grocery items, she contributes to the store's seamless operations. Her role involves restocking shelves, assisting customers, and ensuring that the store maintains a clean and organized appearance. With a strong connection to her local community, she enjoys the bustling environment, finding satisfaction in helping neighbors find what they need while fostering a friendly atmosphere in her workplace.",
         "images": [
-            "/personas/images/28.png",
-            "/personas/descriptive_images/28.png"
+            "src/datasets/images/28.png",
+            "src/datasets/descriptive_images/28.png"
         ]
     },
     {
@@ -139,8 +139,8 @@
         "persona": "A 56-year-old male roofer from Brisbane",
         "description": "Meet a dedicated construction worker in his early 40s, working high above the bustling cityscape. Clad in a bright safety vest and a hard hat, he\u2019s focused intently on his task as he repairs a roof, showcasing both skill and professionalism. With a tool in hand, he demonstrates his expertise in roofing, an essential aspect of construction that requires precision and safety awareness. His work environment offers a stunning backdrop of urban development, indicating a connection to the city\u2019s growth and infrastructure. Each day on the roof, he plays a critical role in maintaining the safety and integrity of buildings, contributing to the ever-evolving skyline he calls home.",
         "images": [
-            "/personas/images/25.png",
-            "/personas/descriptive_images/25.png"
+            "src/datasets/images/25.png",
+            "src/datasets/descriptive_images/25.png"
         ]
     },
     {
@@ -148,8 +148,8 @@
         "persona": "A 30-year-old female garbage collector from Toronto",
         "description": "Meet a dedicated waste management worker in her early 40s, actively engaged in her role on the bustling streets of a vibrant city. Dressed in a bright orange safety vest and matching helmet, she exemplifies professionalism and safety in her work environment. With blue gloves on, she\u2019s focused on her tasks while maneuvering around bright orange trash bins, ensuring the area stays clean and organized.\n\nHer job involves collecting and managing waste, a vital role in maintaining urban cleanliness and sustainability. The cityscape around her is filled with lively traffic and pedestrians, reflecting the dynamic nature of her daily routine. She takes pride in her work, knowing that her efforts contribute significantly to the community's overall health and aesthetic. With each collection, she helps promote environmental awareness and responsible waste disposal practices, reinforcing her connection to this urban location and its residents.",
         "images": [
-            "/personas/images/24.png",
-            "/personas/descriptive_images/24.png"
+            "src/datasets/images/24.png",
+            "src/datasets/descriptive_images/24.png"
         ]
     },
     {
@@ -157,8 +157,8 @@
         "persona": "A 63-year-old male miner from Johannesburg",
         "description": "Meet a dedicated miner in his early 40s, thriving in the underground tunnels of a bustling mining operation. Dressed in essential safety gear\u2014a bright orange reflective vest and a hard hat\u2014he exemplifies the importance of safety in his demanding environment. Clutching a mining pick and equipped with a headlamp to navigate the darker areas, he prepares for another day of work that involves extracting valuable resources from deep within the earth. His job not only requires physical strength and endurance but also an acute awareness of safety protocols and environmental impacts. Deeply connected to the local community, he takes pride in supporting the economy and resource needs of his region, contributing to a legacy of hard work and resilience in the mining industry. His focused demeanor and sense of professionalism reflect the dedication required in a field that poses daily challenges.",
         "images": [
-            "/personas/images/82.png",
-            "/personas/descriptive_images/82.png"
+            "src/datasets/images/82.png",
+            "src/datasets/descriptive_images/82.png"
         ]
     },
     {
@@ -166,8 +166,8 @@
         "persona": "A 24-year-old female lab technician from Shanghai",
         "description": "Meet a dedicated research scientist in her early 30s, working in a modern laboratory in Shanghai, China. Every day, she collaborates with a dynamic team focused on innovative scientific advancements. Dressed in a crisp white lab coat and protective eyewear, she meticulously conducts experiments utilizing a range of test tubes and pipettes, showcasing her commitment to precision and detail in her work. The lab is equipped with advanced equipment, and the stunning skyline of Shanghai serves as an inspiring backdrop. Her role involves analyzing data and developing solutions that contribute to important breakthroughs in her field, reflecting her passion for science and its potential to impact lives. Engaged and focused, she embraces the challenges of her profession with enthusiasm and professionalism, embodying the spirit of innovation that defines Shanghai's scientific community.",
         "images": [
-            "/personas/images/86.png",
-            "/personas/descriptive_images/86.png"
+            "src/datasets/images/86.png",
+            "src/datasets/descriptive_images/86.png"
         ]
     },
     {
@@ -175,8 +175,8 @@
         "persona": "A 29-year-old male postal worker from Mexico City",
         "description": "Meet a delivery cyclist in his late 20s, working in a vibrant urban area. He sports a focused expression, ready to navigate the bustling streets and make timely deliveries. Dressed in a bright, branded polo shirt and a matching cap, he stands out against the colorful background of the city. His attire includes a reflective vest for safety, highlighting his commitment to being visible on the road.\n\nAttached to his bicycle is an insulated delivery box, ensuring that goods remain fresh while he rides through the lively streets. As he pedals through this dynamic neighborhood, he connects with local businesses and customers, playing a crucial role in the city\u2019s fast-paced economy. His job demands agility and quick thinking, reflecting his dedication to providing excellent service. Each delivery represents a contribution to the community's daily life, making him an integral part of the urban tapestry.",
         "images": [
-            "/personas/images/89.png",
-            "/personas/descriptive_images/89.png"
+            "src/datasets/images/89.png",
+            "src/datasets/descriptive_images/89.png"
         ]
     },
     {
@@ -184,8 +184,8 @@
         "persona": "A 44-year-old female welder from Dubai",
         "description": "Meet a dedicated welder in her early 30s, working in Dubai, UAE. She operates on construction sites that often feature the skyline of iconic skyscrapers. Dressed in a protective blue jumpsuit, heavy gloves, and a welding helmet, she embodies professionalism in a demanding and safety-focused role. Currently engaged in her task, she meticulously wields a welding torch, skillfully creating sparks that light up her surroundings. Her job involves fabricating and assembling metal structures, requiring a keen eye for detail and strong technical expertise. With a connection to the rapidly growing urban landscape of Dubai, she takes pride in contributing to the ambitious architectural projects that define the city's vibrant character, playing a vital role in its ongoing development.",
         "images": [
-            "/personas/images/90.png",
-            "/personas/descriptive_images/90.png"
+            "src/datasets/images/90.png",
+            "src/datasets/descriptive_images/90.png"
         ]
     },
     {
@@ -193,8 +193,8 @@
         "persona": "A 54-year-old male librarian from Amsterdam",
         "description": "Meet an elderly male researcher in his late 60s, immersed in his scholarly work in a cozy library. The atmosphere is tranquil, characterized by warm wooden shelves lined with volumes of classic literature and historical texts. Dressed in a comfortable cardigan, he exudes a focused and contemplative mood as he carefully examines the pages of an old book, surrounded by stacks of similar tomes.\n\nHis workspace features a sturdy wooden desk illuminated by a warm, overhead lamp, enhancing the serene environment. The library, possibly located in a historic part of a city, serves as a haven for academics and book lovers alike. As a dedicated researcher, he delves into subjects that have shaped society, showcasing his passion for knowledge and history. His deep connection to the area is reflected in his reverence for the rich literary heritage surrounding him, contributing to a scholarly community that values learning and culture.",
         "images": [
-            "/personas/images/106.png",
-            "/personas/descriptive_images/106.png"
+            "src/datasets/images/106.png",
+            "src/datasets/descriptive_images/106.png"
         ]
     },
     {
@@ -202,8 +202,8 @@
         "persona": "A 51-year-old female dentist from Seoul",
         "description": "Meet a dedicated female dentist in her early 30s, working in a modern clinic located in a bustling metropolitan area. She wears a crisp white lab coat, showcasing her professionalism, and is equipped with essential dental tools as she engages in a procedure. Her expression reflects focus and care, emphasizing her commitment to providing quality patient care. The clinic is bright and contemporary, filled with advanced dental equipment, highlighting her role in delivering cutting-edge dental services. She takes pride in her work, contributing to the overall health and well-being of her community in this vibrant city.",
         "images": [
-            "/personas/images/114.png",
-            "/personas/descriptive_images/114.png"
+            "src/datasets/images/114.png",
+            "src/datasets/descriptive_images/114.png"
         ]
     },
     {
@@ -211,8 +211,8 @@
         "persona": "A 40-year-old female landscaper from Edinburgh",
         "description": "Meet a dedicated gardener in her late 50s, working amidst the lush surroundings of Edinburgh, Scotland. She is engaging in her daily routine, meticulously tending to vibrant flowers\u2014dahlias and zinnias\u2014that add color to the landscape. Dressed comfortably in a blue shirt and vibrant leggings, she wears protective gloves and a wide-brimmed straw hat to shield herself from the sun.\n\nHer work environment is rich with natural beauty, featuring a backdrop of the historic Edinburgh Castle, which connects her to the city's rich heritage and culture. With a garden trowel in hand, she embodies the essence of professional dedication, focusing intently on nurturing the plants. Her role involves not just planting and weeding, but also creating aesthetically pleasing spaces that enhance the local environment and provide joy to the community. Passionate and nurturing, she takes pride in her contribution to the natural beauty of Edinburgh, fostering an appreciation for the outdoors in both locals and visitors alike.",
         "images": [
-            "/personas/images/120.png",
-            "/personas/descriptive_images/120.png"
+            "src/datasets/images/120.png",
+            "src/datasets/descriptive_images/120.png"
         ]
     },
     {
@@ -220,8 +220,8 @@
         "persona": "A 24-year-old male hairdresser from Barcelona",
         "description": "Meet a dedicated hairstylist in his mid-20s, working in a vibrant salon located in a bustling urban area. His focused expression reflects a passion for his craft as he skillfully prepares for his next client. Dressed in a white t-shirt and a green apron, he embodies a stylish yet professional appearance, showcasing his creativity in the hair industry. Holding a comb and scissors, he is equipped to transform looks and boost confidence. The salon boasts large windows that allow natural light to flood the space, creating a warm and inviting atmosphere. His connection to the area is strong; he enjoys being part of a community that values personal style and self-expression. With each haircut, he not only enhances appearances but also builds lasting relationships with his clientele.",
         "images": [
-            "/personas/images/121.png",
-            "/personas/descriptive_images/121.png"
+            "src/datasets/images/121.png",
+            "src/datasets/descriptive_images/121.png"
         ]
     },
     {
@@ -229,8 +229,8 @@
         "persona": "A 19-year-old male janitor from Stockholm",
         "description": "Meet a diligent janitor in their late 20s, engaged in maintaining a bright and inviting space within a community center in a vibrant urban neighborhood. With a focused expression, they don a practical outfit consisting of blue overalls and bright yellow gloves, symbolizing both their commitment to cleanliness and safety. In one hand, they hold a broom, while the other grips a mop, tools of their trade that reflect their hands-on role in the upkeep of the facility. The large windows around them provide ample natural light, enhancing the welcoming atmosphere of the area they maintain. Their job involves routine cleaning and setting up the space for various community events, and they take pride in ensuring a clean, comfortable environment for visitors, contributing positively to the community\u2019s daily life.",
         "images": [
-            "/personas/images/123.png",
-            "/personas/descriptive_images/123.png"
+            "src/datasets/images/123.png",
+            "src/datasets/descriptive_images/123.png"
         ]
     },
     {
@@ -238,8 +238,8 @@
         "persona": "A 53-year-old female bus driver from Copenhagen",
         "description": "Meet a dedicated public transportation officer in her late 30s, working in a vibrant urban area. She stands confidently in her crisp uniform, which includes a distinctive hat and a white and blue shirt indicative of her role. Her expression reflects a sense of professionalism and readiness, as she oversees operations in a bustling public transport hub. In the background, a bright yellow bus waits to service the community, highlighting the essential role she plays in ensuring smooth transit. Her job involves managing passenger safety and assisting with any issues that arise, making her a vital link in the city's transportation system. Living and working in this location, she takes pride in her connection to the community, contributing to the daily commute of countless individuals and reinforcing the effectiveness of public transit in urban life.",
         "images": [
-            "/personas/images/124.png",
-            "/personas/descriptive_images/124.png"
+            "src/datasets/images/124.png",
+            "src/datasets/descriptive_images/124.png"
         ]
     },
     {
@@ -247,8 +247,8 @@
         "persona": "A 27-year-old female machinist from Frankfurt",
         "description": "Meet a dedicated metalworker in her early 30s, working in a modern fabrication studio with expansive views of the city skyline. She is engaged in precision work, handling a cutting tool that sends sparks flying, reflecting her focus and passion for her craft. Clad in a comfortable blue t-shirt and an apron, paired with protective gloves and safety glasses, she exemplifies professionalism and readiness for the demands of her job. \n\nHer work environment is filled with large machinery and light-filled windows, emphasizing creativity and productivity. Her role involves shaping and assembling metal components, highlighting her craftsmanship and attention to detail. Living in an urban area known for its industrial and artistic community, she contributes to local projects, merging functionality with aesthetic appeal, and takes great pride in her role in enhancing both the infrastructure and artistic projects in her city.",
         "images": [
-            "/personas/images/126.png",
-            "/personas/descriptive_images/126.png"
+            "src/datasets/images/126.png",
+            "src/datasets/descriptive_images/126.png"
         ]
     },
     {
@@ -256,8 +256,8 @@
         "persona": "A 52-year-old male doctor from Madrid",
         "description": "Meet a focused healthcare professional in their late 30s, working in a modern hospital environment. Dressed in a crisp white lab coat over smart, professional attire, they embody dedication and expertise. A stethoscope hangs around their neck, indicating their role, while they attentively assist a patient lying on a medical examination table, showcasing their compassionate demeanor. The well-lit room offers a panoramic view of the city, suggesting an urban location that thrives on cutting-edge medical care. Their job demands precision and empathy, as they navigate the challenges of patient care in a bustling healthcare setting, committed to making a positive impact on the lives of those they serve.",
         "images": [
-            "/personas/images/132.png",
-            "/personas/descriptive_images/132.png"
+            "src/datasets/images/132.png",
+            "src/datasets/descriptive_images/132.png"
         ]
     },
     {
@@ -265,8 +265,8 @@
         "persona": "A 60-year-old male security guard from Lisbon",
         "description": "Meet a dedicated security officer in his late 50s, standing confidently in a vibrant urban square. Dressed in a crisp navy uniform adorned with a reflective badge, he exudes authority and professionalism. His expression is focused and vigilant, embodying a sense of calm in his role. He holds himself upright, suggesting both pride in his work and readiness to address any situation that may arise.\n\nThis officer works in a bustling area known for its historical architecture and lively atmosphere, contributing to the safety and security of visitors and locals alike. His job entails monitoring activity, providing assistance when needed, and ensuring a secure environment for the public. Deeply connected to the community, he values his role, playing a crucial part in maintaining the peace and enhancing the overall experience of those who visit this vibrant location.",
         "images": [
-            "/personas/images/134.png",
-            "/personas/descriptive_images/134.png"
+            "src/datasets/images/134.png",
+            "src/datasets/descriptive_images/134.png"
         ]
     },
     {
@@ -274,8 +274,8 @@
         "persona": "A 42-year-old male firefighter from Sao Paulo",
         "description": "Meet a dedicated firefighter in his late 30s, based in a bustling urban center. In the high-stakes world of emergency response, he embraces the challenges of his job with a serious and determined expression. Clad in a protective firefighting uniform adorned with reflective stripes, he carries essential equipment, including a fire extinguisher, ready for action.\n\nHis work environment often involves the chaotic backdrop of city streets, lined with skyscrapers and the sounds of sirens echoing around him. As a key member of a firefighting team, his role extends beyond extinguishing fires; he is also trained to rescue individuals in peril and offer critical support during emergencies. Strongly connected to the community, he takes pride in safeguarding the lives and property of those around him, embodying the courage and commitment that define his profession. Each day presents a new challenge, reinforcing his dedication to making a difference in the lives of others.",
         "images": [
-            "/personas/images/138.png",
-            "/personas/descriptive_images/138.png"
+            "src/datasets/images/138.png",
+            "src/datasets/descriptive_images/138.png"
         ]
     },
     {
@@ -283,8 +283,8 @@
         "persona": "A 36-year-old male pharmacist from Berlin",
         "description": "Meet a dedicated pharmacist in his early 30s, working in a modern pharmacy that serves a busy urban neighborhood. He\u2019s dressed in a crisp white lab coat over a collared shirt, projecting professionalism and approachability. With a focused but friendly expression, he stands confidently beside shelves lined with neatly organized medication bottles and supplies. He is holding a clipboard, indicating he is likely reviewing prescriptions or inventory, suggesting a commitment to precision in his work.\n\nIn this role, he is responsible for dispensing medications and advising patients on their use, requiring a strong understanding of pharmacology and patient care. His work environment is equipped with the latest pharmacy technology, enhancing his ability to provide accurate service. Living and working in the community, he takes pride in being a reliable health resource, ensuring residents have access to essential medications and health information, which strengthens his bond with the area.",
         "images": [
-            "/personas/images/68.png",
-            "/personas/descriptive_images/68.png"
+            "src/datasets/images/68.png",
+            "src/datasets/descriptive_images/68.png"
         ]
     },
     {
@@ -292,8 +292,8 @@
         "persona": "A 56-year-old female teacher from Melbourne",
         "description": "Meet a dedicated mathematics teacher in her early 60s, working in a vibrant urban school. Her warm demeanor and thoughtful expression reflect her commitment to fostering a positive learning environment for her students. Dressed in a stylish yet professional outfit with a teal vest over a black top, she embodies both approachability and authority.\n\nIn the classroom, adorned with mathematical equations and formulas scrawled on green chalkboards, she stands confidently with her arms crossed, ready to engage with her students. Her job involves explaining complex concepts and encouraging critical thinking among young minds, all while nurturing a passion for learning.\n\nHer connection to the area is profound; she has been part of the community for many years, striving to inspire the next generation of learners. With each lesson, she not only teaches mathematics but also imparts valuable life skills, contributing to the growth of her students and the community at large.",
         "images": [
-            "/personas/images/184.png",
-            "/personas/descriptive_images/184.png"
+            "src/datasets/images/184.png",
+            "src/datasets/descriptive_images/184.png"
         ]
     },
     {
@@ -301,8 +301,8 @@
         "persona": "A 42-year-old male taxi driver from Hong Kong",
         "description": "Meet a middle-aged male taxi driver, currently working in the vibrant streets of a bustling urban city, likely in Asia. His expression conveys a sense of calm focus, as he navigates through the crowded roads filled with towering skyscrapers and neon signage. Dressed in a bright red shirt, he appears approachable and professional, embodying the spirit of the city he serves.\n\nInside his striking red and yellow taxi, he effortlessly blends into the fast-paced environment, interacting with a diverse array of passengers, each with their own story. His job involves not only driving but also knowing the best routes to take in heavy traffic, ensuring his passengers reach their destinations promptly. \n\nWith an extensive knowledge of the city\u2019s layout and landmarks, he has cultivated a deep connection to the area, enjoying the hustle and bustle while contributing to its lively atmosphere. His days are filled with varied experiences, making each ride unique and rewarding.",
         "images": [
-            "/personas/images/16.png",
-            "/personas/descriptive_images/16.png"
+            "src/datasets/images/16.png",
+            "src/datasets/descriptive_images/16.png"
         ]
     },
     {
@@ -310,8 +310,8 @@
         "persona": "A 39-year-old female veterinarian from Nairobi",
         "description": "Meet a dedicated veterinarian in her early 30s, working in a vibrant city setting. Her calm demeanor reflects her deep commitment to animal care as she interacts with a patient\u2014a friendly dog\u2014on the examination table. Dressed in scrubs and wearing gloves, she is well-equipped for her role, emphasizing hygiene and professionalism in her practice.\n\nThe clinic is located in a high-rise building that offers a stunning view of the urban skyline, illustrating her connection to the bustling city environment. Each day, she navigates the challenges of veterinary medicine, providing essential health services to pets in the community. Her compassion shines through, earning her the trust of both animals and their owners, making her an integral part of the local pet-loving community.",
         "images": [
-            "/personas/images/197.png",
-            "/personas/descriptive_images/197.png"
+            "src/datasets/images/197.png",
+            "src/datasets/descriptive_images/197.png"
         ]
     },
     {
@@ -319,8 +319,8 @@
         "persona": "A 25-year-old male baker from Lisbon",
         "description": "Meet a dedicated baker in his mid-30s, working in a lively bakery environment. He sports a cheerful expression, reflecting his passion for creating delicious breads and pastries. Dressed in a classic chef's uniform, complete with a white coat and a traditional baker's hat, he stands confidently at the counter. \n\nIn his hands, he is thoughtfully examining freshly baked loaves, a testament to his craftsmanship. The bakery is filled with shelves lined with a variety of breads, showcasing his artistry and skill. His job requires a balance of precision and creativity, as he often experiments with flavors and techniques to delight his customers.\n\nDeeply connected to the local community, he takes pride in serving fresh, high-quality baked goods that bring people together, making the bakery a cherished spot in the neighborhood. His commitment to excellence not only nourishes the body but also fosters a sense of belonging among the patrons who frequent the establishment.",
         "images": [
-            "/personas/images/198.png",
-            "/personas/descriptive_images/198.png"
+            "src/datasets/images/198.png",
+            "src/datasets/descriptive_images/198.png"
         ]
     },
     {
@@ -328,8 +328,8 @@
         "persona": "A 40-year-old male welder from Moscow",
         "description": "Meet a dedicated welder in his early 30s, working in a large industrial facility. He is currently focused, wearing a protective welding helmet that shields his face, indicating concentration on his task. Dressed in a heavy-duty work jacket and gloves, he's equipped for the rigors of his job. \n\nIn his hands, he holds a welding torch, skillfully generating sparks as he fuses metal together. The work environment around him is gritty and industrial, with large windows allowing natural light to flood in, illuminating the workspace filled with tools and materials indicative of metal fabrication.\n\nHis job involves precise welding and metalworking, crucial for creating structural components and various projects. Deeply connected to the area, he plays an essential role in the local manufacturing industry, contributing to the development of machinery and infrastructure vital to the community's economy. Each day brings a sense of accomplishment as he crafts durable and reliable products that will serve their purpose long after leaving his hands.",
         "images": [
-            "/personas/images/193.png",
-            "/personas/descriptive_images/193.png"
+            "src/datasets/images/193.png",
+            "src/datasets/descriptive_images/193.png"
         ]
     },
     {
@@ -337,8 +337,8 @@
         "persona": "A 39-year-old male plumber from Melbourne",
         "description": "Meet a skilled plumber in his mid-30s, working in a high-rise apartment in a vibrant urban area. He approaches his work with a focused expression, demonstrating dedication and professionalism. Dressed in bright blue overalls and equipped with protective gloves, he is well-prepared for the task at hand. Holding plumbing tools such as a wrench and a small bottle, he is engaged in installing or repairing a sink in the modern kitchen, showcasing both his technical skills and attention to detail.\n\nWith the skyline of the bustling city as his backdrop, he feels a strong connection to the area, contributing to the well-being of residents by ensuring their plumbing systems operate smoothly. His job not only emphasizes his craftsmanship but also plays a vital role in maintaining the comfort and functionality of urban living spaces. Each day presents new challenges, but his unwavering commitment to quality work makes him a valuable asset to the community he serves.",
         "images": [
-            "/personas/images/169.png",
-            "/personas/descriptive_images/169.png"
+            "src/datasets/images/169.png",
+            "src/datasets/descriptive_images/169.png"
         ]
     },
     {
@@ -346,8 +346,8 @@
         "persona": "A 22-year-old male lab technician from Tokyo",
         "description": "Meet a dedicated laboratory technician in his late 20s, working in a high-rise science facility in Tokyo, Japan. His focused expression reflects a commitment to his research amidst the vibrant city skyline. Dressed in a crisp white lab coat over a smart shirt and tie, he embodies professionalism in a fast-paced environment. Holding a pipette with precision, he is surrounded by an array of colorful test tubes and flasks, each indicating his current experiments. The lab is equipped with modern instruments and offers stunning views of Tokyo\u2019s iconic skyline, providing a perfect blend of urban life and scientific inquiry. His work involves conducting complex chemical analyses and experimenting with innovative materials, contributing to advancements in his field while deeply connected to the energy and dynamism of the city around him.",
         "images": [
-            "/personas/images/102.png",
-            "/personas/descriptive_images/102.png"
+            "src/datasets/images/102.png",
+            "src/datasets/descriptive_images/102.png"
         ]
     },
     {
@@ -355,8 +355,8 @@
         "persona": "A 20-year-old female security guard from Cape Town",
         "description": "Meet a diligent security officer in her early 30s, stationed in an urban area known for its bustling activity. She stands confidently outside a secure facility, dressed in a crisp blue uniform adorned with distinct insignia, reflecting her professionalism and commitment to her role. Her expression is focused and alert, embodying the seriousness required in her line of work.\n\nEquipped with a radio and necessary identification, she is responsible for monitoring premises, ensuring the safety and security of both the building and its occupants. Her job involves routine patrols and quick responses to any incidents, highlighting her role as a key figure in community safety. Dedicated to maintaining peace and security, she takes pride in her efforts to protect and serve her environment, contributing to a sense of safety in her locality.",
         "images": [
-            "/personas/images/62.png",
-            "/personas/descriptive_images/62.png"
+            "src/datasets/images/62.png",
+            "src/datasets/descriptive_images/62.png"
         ]
     }
 ]

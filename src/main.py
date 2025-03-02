@@ -29,18 +29,17 @@ These values can be overridden by command-line arguments.
 """
 
 # Generation defaults
-DEFAULT_PERSONAS_FILE = 'src/evaluation/personas/mini-dataset.json'
-DEFAULT_QUESTIONS_FILE = 'src/questions.json'
-DEFAULT_SCENARIOS_FILE = 'src/scenarios.json'
-DEFAULT_GENERATION_OUTPUT = 'responses.json'
-DEFAULT_MODEL_TO_EVALUATE = 'openai/gpt-4o'
+DEFAULT_PERSONAS_FILE = 'src/datasets/full-dataset.json'
+DEFAULT_QUESTIONS_FILE = 'src/datasets/misc/questions.json'
+DEFAULT_SCENARIOS_FILE = 'src/datasets/misc/scenarios.json'
+DEFAULT_GENERATION_OUTPUT = f'output/responses-{datetime.datetime.now().strftime("%Y%m%d-%H%M%S")}.json'
 DEFAULT_GENERATION_CONCURRENCY = 50
 
 # Refusal evaluation defaults
 DEFAULT_REFUSAL_CONCURRENCY = 40
 DEFAULT_REFUSAL_THRESHOLD = 0.5
 DEFAULT_REFUSAL_MATCH_TYPE = "FULL"
-DEFAULT_REFUSAL_OUTPUT = 'refusal_annotated.json'
+DEFAULT_REFUSAL_OUTPUT = f'output/refusal-{datetime.datetime.now().strftime("%Y%m%d-%H%M%S")}.json'
 
 # Rubric evaluation defaults
 DEFAULT_RUBRIC_CONCURRENCY = 40
@@ -51,7 +50,7 @@ RUBRIC_PATHS_DEFAULT = {
     'Action Justification': 'src/rubrics/Action Justification.txt'
 }
 SCORE_REGEX = r"Therefore, the final score is\s*(\d+(?:\.\d+)?)"
-DEFAULT_RUBRIC_OUTPUT = 'rubric_evaluated.json'
+DEFAULT_RUBRIC_OUTPUT = f'output/rubric-{datetime.datetime.now().strftime("%Y%m%d-%H%M%S")}.json'
 
 """
 Modality Mapping
@@ -74,7 +73,7 @@ async def encode_image(image_path):
         data = await f.read()
     return base64.b64encode(data).decode('utf-8')
 
-async def generate_response(prompt, image=None, system_prompt=None, persona_message=None, model_name=DEFAULT_MODEL_TO_EVALUATE):
+async def generate_response(prompt, model_name, image=None, system_prompt=None, persona_message=None):
     messages = []
     if system_prompt:
         messages.append({"role": "system", "content": system_prompt})
@@ -190,12 +189,10 @@ async def run_generation_pipeline(personas_file, questions_file, scenarios_file,
     responses = []
     for task in tqdm(asyncio.as_completed(tasks), total=len(tasks), desc='Generating responses'):
         responses.append(await task)
-    timestamp = datetime.datetime.now().strftime("%Y%m%d-%H%M%S")
-    output_filename = f"{os.path.splitext(output_file)[0]}-{timestamp}.json"
-    async with aiofiles.open(output_filename, 'w') as f:
+    async with aiofiles.open(output_file, 'w') as f:
         await f.write(json.dumps(responses, indent=4))
-    logging.info(f"Generation complete. Responses saved to {output_filename}.")
-    return output_filename
+    logging.info(f"Generation complete. Responses saved to {output_file}.")
+    return output_file
 
 # ---------------------------
 # Refusal Evaluation Functions
@@ -385,7 +382,7 @@ async def main():
     parser.add_argument('--questions_file', type=str, default=DEFAULT_QUESTIONS_FILE, help='Path to questions JSON file.')
     parser.add_argument('--scenarios_file', type=str, default=DEFAULT_SCENARIOS_FILE, help='Path to scenarios JSON file.')
     parser.add_argument('--generation_output', type=str, default=DEFAULT_GENERATION_OUTPUT, help='Output file for generated responses.')
-    parser.add_argument('--model_to_evaluate', type=str, default=DEFAULT_MODEL_TO_EVALUATE, help='LLM model for response generation.')
+    parser.add_argument('--model_to_evaluate', type=str, required=True, help='LLM model for response generation.')
     parser.add_argument('--generation_concurrency', type=int, default=DEFAULT_GENERATION_CONCURRENCY, help='Concurrency for generation.')
     parser.add_argument('--num_personas', type=int, default=None, help='Number of personas to evaluate (default: all).')
     parser.add_argument('--modalities', type=str, default="1,2,3,4", help='Comma-separated modality numbers (1: Text, 2: Assisted Image, 3: Image, 4: Descriptive Image).')
@@ -401,6 +398,7 @@ async def main():
     parser.add_argument('--rubric_output', type=str, default=DEFAULT_RUBRIC_OUTPUT, help='Output file for rubric evaluation.')
     parser.add_argument('--rubric_paths', type=json.loads, default=json.dumps(RUBRIC_PATHS_DEFAULT),
                         help='JSON string mapping rubric names to file paths.')
+    parser.add_argument('--evaluator_model', type=str, required=True, help='LLM model to use for rubric evaluation.')
     
     args = parser.parse_args()
     
@@ -442,7 +440,7 @@ async def main():
         output_file=args.rubric_output,
         rubric_templates=templates,
         concurrency=args.rubric_concurrency,
-        model_name=args.model_to_evaluate
+        model_name=args.evaluator_model
     )
 
 if __name__ == "__main__":

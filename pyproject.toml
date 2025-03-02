@@ -1,17 +1,19 @@
 [tool.poetry]
-name = "multimodal-persona-pipeline"
+name = "persona-modality"
 version = "0.1.0"
 description = "A pipeline for evaluating persona modality bias by multimodal LLMs"
-authors = ["Your Name <broomfieldjuliusr@gatech.edu>"]
+authors = ["Julius Broomfield <jbroomfield@gatech.edu>"]
 
 [tool.poetry.dependencies]
-python = "^3.9.12"
-aiofiles = "^24.1.0"
+python = "^3.10"
+aiofiles = "*"
 tqdm = "^4.66.5"
 python-dotenv = "^1.0.1"
 nltk = "^3.9.1"
 litellm = "*"      
 llm_guard = "*"
+spacy = ">=3.4.4,<4.0.0"
+torch = "2.0.1"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
