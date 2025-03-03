@@ -1,6 +1,6 @@
 # A Thousand Words or An Image: The Influence of Persona Modality
 
-[![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg?style=flat)](https://arxiv.org/abs/1234.56789)
+[![arXiv](https://img.shields.io/badge/arXiv-2502.20504-b31b1b.svg?style=flat)]([https://arxiv.org/abs/1234.56789](https://arxiv.org/abs/2502.20504))
 
 This repository contains supplementary code and data for the paper: "A Thousand Words or An Image: Studying the Influence of Persona Modality in Multimodal LLMs" (under review).
 
