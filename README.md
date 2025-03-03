@@ -91,6 +91,15 @@ For example, to evaluate **10** personas using modalities **1 (Text)** and **3 (
 ### 🤝 Citation
 If you find our work helpful in your research, please consider citing our paper.
 ```bibtex
+@misc{broomfield2025thousandwordsimagestudying,
+      title={A Thousand Words or An Image: Studying the Influence of Persona Modality in Multimodal LLMs}, 
+      author={Julius Broomfield and Kartik Sharma and Srijan Kumar},
+      year={2025},
+      eprint={2502.20504},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.20504}, 
+}
 ```
 
 ### 🙏 Acknowledgements
