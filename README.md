@@ -1,8 +1,6 @@
 # A Thousand Words or An Image: The Influence of Persona Modality
 
-[![arXiv](https://img.shields.io/badge/arXiv-2502.20504-b31b1b.svg?style=flat)](https://arxiv.org/abs/2502.20504)
-
-This repository contains supplementary code and data for the paper: "A Thousand Words or An Image: Studying the Influence of Persona Modality in Multimodal LLMs" (under review).
+This repository contains supplementary code and data for the paper: "A Thousand Words or An Image: Studying the Influence of Persona Modality in Multimodal LLMs"
 
 ![Persona Figure](assets/persona-fig.png)
 
@@ -87,20 +85,6 @@ For example, to evaluate **10** personas using modalities **1 (Text)** and **3 (
   ```bash
   poetry run python src/main.py --evaluator_model claude-3-5-sonnet-20240620 -- model_to_evaluate gemini-2.0-flash --num_personas 10 --modalities 1,3
   ```
-
-### 🤝 Citation
-If you find our work helpful in your research, please consider citing our paper.
-```bibtex
-@misc{broomfield2025thousandwordsimagestudying,
-      title={A Thousand Words or An Image: Studying the Influence of Persona Modality in Multimodal LLMs}, 
-      author={Julius Broomfield and Kartik Sharma and Srijan Kumar},
-      year={2025},
-      eprint={2502.20504},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2502.20504}, 
-}
-```
 
 ### 🙏 Acknowledgements
 We thank Samuel et. al for their work on PersonaGym. Much of our pipeline, specifically our rubric evaluation, are derived from their work. If you find these components useful in your own work, we encourage you to cite their accompanying paper.
